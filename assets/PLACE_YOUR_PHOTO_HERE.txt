@@ -1,0 +1,4 @@
+Place your profile photo here.
+Rename it to: profile.jpg
+
+Then follow the instructions in README.md to display it on your portfolio.
